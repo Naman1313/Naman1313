@@ -1,10 +1,10 @@
 # Hi there, I'm Naman Chaudhary 👋                                                                                                                   ![](https://komarev.com/ghpvc/?username=Naman1313&abbreviated=true&style=flat-square)
 
-Frontend Developer | Aspiring FullStack Developer | Tech Enthusiast | Lifelong Learner
+Backend Developer | Tech Enthusiast | Lifelong Learner
 
 ## About Me
 
-I am a passionate JavaScript student with a keen interest in learning and developing APIs. I love exploring new technologies and am constantly seeking opportunities to expand my knowledge and skills.
+I am a passionate Btech student with a keen interest in learning and developing APIs. I love exploring new technologies and am constantly seeking opportunities to expand my knowledge and skills.
 
 ## Tech & Tools Preference
 
@@ -19,13 +19,16 @@ I am a passionate JavaScript student with a keen interest in learning and develo
 ## Current Focus
 
 - **Backend Development**: Learning NodeJs, ExpressJs.
-
 - **MongoDB and MySQL**: Building strong knowledge on databases.
+- **Data Structure and Algorithm**: Building foundation in data structures using JAVA. 
 
 ## Projects
 
 ### [Check Weather](https://github.com/Naman1313/Check_Weather)
 A simple web based application that tells temperature, weather condition, humidity and wind speed of entered city. In this project I leared fetching data from api and how to use it.
+
+###[My Portfolio](https://naman1313.github.io/Portfolio/)
+A 
 
 ## How to Reach Me
 
