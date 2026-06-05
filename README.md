@@ -86,6 +86,19 @@
 </div>
 <br/>
 
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|--------|-------------|------------|-------|
+| **TaskLoom** | Task Management and Team Collaboration Platform | React, TypeScript, Zustand, Framer Motion, Three.js, Tailwind, Vite | [![Live](https://img.shields.io/badge/Live-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://tasksloom.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-%23000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1313/TaskLoom) |
+| **PhishDetect** |  ML Model for detecting Phishing Sites | Python, TensorFlow, Keras, NumPy, Pandas, Scikit-learn, Matplotlib | [![Repo](https://img.shields.io/badge/Repo-%23000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1313/PhishDetect) |
+| **Nyaya-Setu** | Blockchain-powered tamper-proof digital evidence management system | Node.js, Express, MongoDB, Ethereum, IPFS, AWS S3, AES-256, EJS | [![Live](https://img.shields.io/badge/Live-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://nyaya-setu-kjga.onrender.com/home) [![Repo](https://img.shields.io/badge/Repo-%23000000.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Naman1313/Nyaya-Setu) |
+
+</div>
 
 ###
 <div align="center">
