@@ -1,17 +1,47 @@
-<h1 align="center">Hi There <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> I'm Naman Chaudhary</h1>
-<h3 align="center">A passionate Full Stack Developer & ML Enthusiast from Delhi, India</h3>
+<div align="center">
+
+```
+███╗   ██╗ █████╗ ███╗   ███╗ █████╗ ███╗   ██╗
+████╗  ██║██╔══██╗████╗ ████║██╔══██╗████╗  ██║
+██╔██╗ ██║███████║██╔████╔██║███████║██╔██╗ ██║
+██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║
+██║ ╚████║██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
+╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+
+ ██████╗██╗  ██╗ █████╗ ██╗   ██╗██████╗ ██╗  ██╗ █████╗ ██████╗ ██╗   ██╗
+██╔════╝██║  ██║██╔══██╗██║   ██║██╔══██╗██║  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝
+██║     ███████║███████║██║   ██║██║  ██║███████║███████║██████╔╝ ╚████╔╝
+██║     ██╔══██║██╔══██║██║   ██║██║  ██║██╔══██║██╔══██║██╔══██╗  ╚██╔╝
+╚██████╗██║  ██║██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║██║  ██║   ██║
+ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
+
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast+%7C+Building+Intelligent+Apps;DSA+%26+System+Design+Learner;Open+Source+Contributor+%7C+Linux+Enthusiast" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naman1313/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naman1313)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ZsbKJRCOIW/)
+[![Gmail](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namanvit2028@gmail.com)
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=namanmahaal13&label=Profile%20views&color=0e75b6&style=flat" alt="namanmahaal13 profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Naman1313&label=Profile%20views&color=0e75b6&style=flat" alt="Naman1313 profile views" />
 </p>
+
+</div>
+
+
 
 ## 🧑‍💻About Me
 
 - 🎓 I'm a Student and Web Developer.
+- 🧑‍🎓 Pursuing B.Tech in Computer Science at VIT Bhopal University.
 - 🔭 I'm currently working on Web Development and Machine Learning.
 - 🌱 I'm currently learning DSA and System Design.
 - 👯 I'm looking to collaborate with open-source enthusiasts.
-- 🥅 2026 Goals: Master MERN Stack, Next.js, Ml and strengthen DSA.
 - 🐧 I daily-drive Fedora Linux and love system-level tinkering.
 
 <h4 align="center">It's not Over, Until I WIN.</h4>
@@ -56,16 +86,6 @@
 </div>
 <br/>
 
-###
-<div align="left">
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  <a href="https://linkedin.com/in/naman1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/_naman_1313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/ZsbKJRCOIW/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/namanvifiet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks" height="30" width="40" /></a>
-  </p>
-</div>
 
 ###
 <div align="center">
