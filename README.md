@@ -68,22 +68,17 @@
 </div>
 
 ###
-<div>
-  <img src="https://raw.githubusercontent.com/namanmahaal13/namanmahaal13/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/Naman1313/Naman1313/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/Naman1313/Naman1313/output/snake.svg" />
+    <img alt="Snake animation"
+         src="https://raw.githubusercontent.com/Naman1313/Naman1313/output/snake.svg" />
+  </picture>
 </div>
 
-## ⚡ My LeetCode Stats 📊
-<h3 align="left">LeetCode Stats:</h3>
-<table>
-  <tr>
-    <td>
-      <img src="https://leetcard.jacoblin.cool/?theme=dark&font=Rubik&ext=heatmap" alt="LeetCode Stats">
-    </td>
-    <td>
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=&theme=dark&border=border&animated=true" alt="LeetCode Badges">
-    </td>
-  </tr>
-</table>
 
 <div align="center">
   <h3 align="center">Show some &nbsp;❤️&nbsp; by &nbsp;🌟&nbsp; some of the repositories!</h3>
