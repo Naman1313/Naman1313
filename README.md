@@ -17,7 +17,7 @@
 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast+%7C+Building+Intelligent+Apps;DSA+%26+System+Design+Learner;Open+Source+Contributor+%7C+Linux+Enthusiast;2x Hackathon Winner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast+%7C+Building+Intelligent+Apps;DSA+%26+System+Design+Learner;Open+Source+Contributor+%7C+Linux+Enthusiast;2x+Hackathon+Winner" alt="Typing SVG" />
 
 <br/>
 
